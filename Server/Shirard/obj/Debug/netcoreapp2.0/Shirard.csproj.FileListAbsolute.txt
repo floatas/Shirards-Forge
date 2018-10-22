@@ -1,0 +1,11 @@
+c:\users\intas\Source\Repos\Shirard\Shirard\bin\Debug\netcoreapp2.0\Shirard.deps.json
+c:\users\intas\Source\Repos\Shirard\Shirard\bin\Debug\netcoreapp2.0\Shirard.runtimeconfig.json
+c:\users\intas\Source\Repos\Shirard\Shirard\bin\Debug\netcoreapp2.0\Shirard.runtimeconfig.dev.json
+c:\users\intas\Source\Repos\Shirard\Shirard\bin\Debug\netcoreapp2.0\Shirard.dll
+c:\users\intas\Source\Repos\Shirard\Shirard\bin\Debug\netcoreapp2.0\Shirard.pdb
+c:\users\intas\Source\Repos\Shirard\Shirard\obj\Debug\netcoreapp2.0\Shirard.csproj.CoreCompileInputs.cache
+c:\users\intas\Source\Repos\Shirard\Shirard\obj\Debug\netcoreapp2.0\Shirard.AssemblyInfoInputs.cache
+c:\users\intas\Source\Repos\Shirard\Shirard\obj\Debug\netcoreapp2.0\Shirard.AssemblyInfo.cs
+c:\users\intas\Source\Repos\Shirard\Shirard\obj\Debug\netcoreapp2.0\Shirard.dll
+c:\users\intas\Source\Repos\Shirard\Shirard\obj\Debug\netcoreapp2.0\Shirard.pdb
+C:\Users\Intas\Source\Repos\Shirard\Shirard\obj\Debug\netcoreapp2.0\Shirard.csprojAssemblyReference.cache

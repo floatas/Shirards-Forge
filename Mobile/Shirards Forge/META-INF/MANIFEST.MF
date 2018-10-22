@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.6.1
+MIDlet-Data-Size: 5000
+MIDlet-1: Shirard's Forge, /icon.png, Main
+MIDlet-Vendor: watAgame /brought by pascha
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Name: Shirard's Forge
+MIDlet-Version: 1.1.0
+Created-By: 1.5.0_01-b08 (Sun Microsystems Inc.)
+MicroEdition-Profile: MIDP-2.0
+
